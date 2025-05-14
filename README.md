@@ -2,10 +2,9 @@
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on Pintrest clone App
+- 🌱 I’m currently learning PostgreSQL,Prisma
+- 🤔 I’m looking for help with PostgreSQL
 
 
 
